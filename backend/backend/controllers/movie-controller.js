@@ -4,7 +4,7 @@ const mongoose=require('mongoose');
 const admin = require("../models/Admin");
 
 const addMovie = async (req, res, next) => { 
-    const extractedToken = req.headers.authorization.split(" ")[1];
+    const extractedToken = req.headers.authorization.split(" ");
     if(!extractedToken && extractedToken.trim() ==="") {
         return res.status(404).json({message: "Token not found"})
     }
