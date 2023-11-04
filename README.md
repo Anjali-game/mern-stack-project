@@ -1,2 +1,10 @@
 ﻿# mern-stack-project
 ![Screenshot (109)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/d8c7cfb6-d9ab-4116-820a-12ebd6fb78b1)
+![Screenshot (115)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/f3126b6b-aaba-4e7c-8572-7e8459f2f5ae)
+![Screenshot (111)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/acc12804-e2fa-4d76-91ed-b58871392390)
+![Screenshot (112)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/20a72e97-b157-4608-87f9-a4bc552530f4)
+![Screenshot (122)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/07f4f7f8-d909-4fdd-b92e-d1ddd58e25a9)
+![Screenshot (123)](https://github.com/Anjali-game/mern-stack-project/assets/136882525/dfb8768f-af29-4f71-8000-e1ea353a608d)
+![Mern stack database ss](https://github.com/Anjali-game/mern-stack-project/assets/136882525/5b61ddca-1ebf-4a8a-9d52-e3a0e1ee9352)
+![mongodb atlas](https://github.com/Anjali-game/mern-stack-project/assets/136882525/7604e5ba-0e9b-4bbb-9099-6cced8839014)
+![mongodb ss](https://github.com/Anjali-game/mern-stack-project/assets/136882525/eea1d5a4-58c5-4909-b1ba-929a0b7f7f90)
